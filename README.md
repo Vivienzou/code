@@ -1,3 +1,5 @@
+take the code into Cython
+
 make the code faster by deleting "tana = 1/tanb", "cosa = sinb", "sina = cosb" and "sina, cosa," on the buttom, then 
 replacing "tana" in the last line by "1/tanb" 
 
